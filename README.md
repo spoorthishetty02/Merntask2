@@ -65,7 +65,7 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/trashika112/Mern-task-2.git
+git clone https://github.com/spoorthishetty02/Merntask2.git
 cd Mern-task-2/backend
 ```
 
