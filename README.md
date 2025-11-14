@@ -66,7 +66,7 @@ backend/
 
 ```bash
 git clone https://github.com/spoorthishetty02/Merntask2.git
-cd Mern-task-2/backend
+cd Merntask2/backend
 ```
 
 ### 2. Install Backend Dependencies
